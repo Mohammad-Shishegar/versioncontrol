@@ -6,7 +6,7 @@ const App = () =>{
         <div>
             Mohammad
             <h1>Shishegar</h1>
-
+            {counter}
         </div>
     )
 }
