@@ -4,6 +4,8 @@ const Control = (props) =>{
     return(
         <div>
             Ali
+            <h2>Shishegar</h2>
+            {props}
         </div>
     )
 }
